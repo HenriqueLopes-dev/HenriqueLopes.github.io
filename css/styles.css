@@ -1,10 +1,17 @@
 * {
     font-family: "Raleway", serif;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 900;
     font-style: normal;
+    color: red;
+
   }
   
-h1 {
+h2{
+    font-family: "Raleway", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     color: blueviolet;
+
 }
